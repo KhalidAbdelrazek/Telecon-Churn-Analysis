@@ -68,4 +68,4 @@ The goal is to help telecom companies identify high-value customers, understand 
 **Khalid Mohammed Abdelrazk Ibrahim**  
 - 📧 Email: [khalidabdelrazk4@gmail.com](mailto:khalidabdelrazk4@gmail.com)  
 - 💼 LinkedIn: [Khalid Abdelrazk](https://www.linkedin.com/in/khalid-abdelrazk-7719b32b3/)  
-- 🐙 GitHub: [khalidabdelrazk](https://github.com/khalidabdelrazk)
+- 🐙 GitHub: [khalidabdelrazk](https://github.com/khalidabdelrazek)
