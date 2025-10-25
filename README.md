@@ -51,7 +51,16 @@ The goal is to help telecom companies identify high-value customers, understand 
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Preview](./dashboard_preview.png)  
+
+<p align="center">
+  <img src="./Dashboard_page1.jpg" alt="Dashboard Page 1" width="48%">
+  <img src="./Dashboard_page2.jpg" alt="Dashboard Page 2" width="48%">
+</p>
+
+<p align="center">
+  <img src="./Dashboard_page3.jpg" alt="Dashboard Page 3" width="48%">
+  <img src="./Dashboard_page4.jpg" alt="Dashboard Page 4" width="48%">
+</p>
 
 ---
 
